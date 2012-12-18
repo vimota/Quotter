@@ -1,4 +1,6 @@
-Quotter
-=======
+---------------------------------------------------
+-----   Quotter - The Twitter Quote'er   ------
+---------------------------------------------------
 
-Quotter - The Twitter Quoting Chrom Extension
+This Chrome Extension will let you quote tweets!
+Easypeasy.
